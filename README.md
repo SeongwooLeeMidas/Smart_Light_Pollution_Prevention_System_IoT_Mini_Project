@@ -1,6 +1,8 @@
 # Sik-Gu_SW_Aritecture_Project
 
 식물을 구하자. 식구!
+
+
 빛 공해가 식물 번식 방해한다!
 
 
