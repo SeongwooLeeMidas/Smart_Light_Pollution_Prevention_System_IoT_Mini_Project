@@ -1,6 +1,7 @@
 # Smart_Light_Pollution_Prevention_System_IoT_Mini_Project
 
 ### 빛 공해 차단 시스템
+---
 ### 개요
 
 야간 빛 공해가 식물 번식을 방해하는 것을 방지하기 위한 프로그램이다.
@@ -29,7 +30,9 @@ MariaDB에 올라간 값을 블루투스 모듈을 통해 자동으로 STM32로 
 이후 조도 값 90 이상, 온도 값 27 이하이면 DC 모터가 작동해 커튼을 내리도록 구성했다.
 아두이노에서 데이터 값을 전송하는 코드, 수집한 데이터가 5초마다 자동으로 라즈베리파이 서버 DB에 등록된 사진, STM32에서 MariaDB의 데이터를 내려받는 코드 첨부
 ![스크린샷 2024-07-27 112029](https://github.com/user-attachments/assets/8ba6be79-3a9d-431c-914f-b986072d28d5)
+
 ![스크린샷 2024-07-27 112946](https://github.com/user-attachments/assets/b6c1cfc6-cf46-4fbf-965a-677e266e5c30)
+
 ![스크린샷 2024-07-27 112019](https://github.com/user-attachments/assets/40c22806-c52f-47da-a32f-fe8931f8a831)
 
 
