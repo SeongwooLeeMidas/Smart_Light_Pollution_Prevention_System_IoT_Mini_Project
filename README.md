@@ -1,6 +1,11 @@
-# Smart_Light_Pollution_Prevention_System_IoT_Mini_Project (빛 공해 차단 시스템)
+# Smart_Light_Pollution_Prevention_System_IoT_Mini_Project
 
-### 개요
+
+## 개요
+
+
+IoT 미니 프로젝트로 빛 공해 차단 시스템이라는 주제를 선정했다.
+
 
 야간 빛 공해가 식물 번식을 방해하는 것을 방지하기 위한 프로그램이다.
 
