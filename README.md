@@ -31,7 +31,7 @@ IoT 미니 프로젝트로 스마트 빛 공해 방지 시스템이라는 주제
 ## System Architecture Diagram
 
 
-![스크린샷 2024-07-27 111339](https://github.com/user-attachments/assets/91179857-1b02-4195-9df1-a1a69e0e7b9c)
+![스크린샷 2024-07-27 135958](https://github.com/user-attachments/assets/6fb9b197-9a17-43e2-b9d2-d102b0d6e496)
 
 
 ## S/W 구성
